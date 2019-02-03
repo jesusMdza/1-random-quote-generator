@@ -1,6 +1,6 @@
 /******************************************
 Treehouse Techdegree:
-FSJS project 1 - A Random Quote Generator
+FSJS project 1 - A Random Quote Generator 
 ******************************************/
 
 //
@@ -22,25 +22,25 @@ let quotes = [
     source: 'Jim Rohn',
     citation: 'Facebook',
     year: 2014,
-    categorization: 'Inspirational',
+    categorization: 'Inspirational'
   }, {
     quote: 'To live is the rarest thing in the world. Most people exist, that is all.',
     source: 'Oscar Wilde',
     citation: 'The Soul of Man under Socialism',
     year: 1891,
-    categorization: 'Philosophy',
+    categorization: 'Philosophy'
   }, {
     quote: "Education is not just about going to school and getting a degree. It's about widening your knowledge and absorbing the truth about life.",
     source: 'Shakuntala Devi',
-    categorization: 'Knowledge',
+    categorization: 'Knowledge'
   }, {
     quote: 'How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.',
     source: 'George Washington Carver',
-    categorization: 'Respect',
+    categorization: 'Respect'
   }, {
     quote: "There is only one thing more painful than learning from experience and that is not learning from experience.",
     source: 'Archibald MacLeish',
-    categorization: 'Experience',
+    categorization: 'Experience'
   },
 ];
 

@@ -7,7 +7,7 @@ FSJS project 1 - A Random Quote Generator
 // **** THIS PROJECT IS ATTEMPTING TO RECEIVE AN "EXCEEDS EXPECTATIONS" GRADE *****
 //
 //
-// A NEW QUOTE IS PRINTED EVERY 20 SECONDS
+// A NEW QUOTE IS PRINTED EVERY 13 SECONDS
 //
 
 // 3 variables that hold a reference to the container div, quote and source paragraphs

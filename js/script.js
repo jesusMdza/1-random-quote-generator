@@ -113,7 +113,7 @@ function displayQuoteAndColor() {
 function intervalFunction() {
 
   displayQuoteAndColor();
-  setInterval(displayQuoteAndColor, 20000);
+  setInterval(displayQuoteAndColor, 13000);
 }
 
 // Function starts the project

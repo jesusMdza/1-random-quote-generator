@@ -97,9 +97,7 @@ function printQuote() {
 
 // Function styles the document body with a random color
 function displayBgColor() {
-
-  let generateColor = getBgColor(colorList);
-  document.body.style.background = generateColor;
+  document.body.style.background = getBgColor(colorList);
 }
 
 // Function calls 'printQuote' function and 'displayBgColor' function
@@ -116,5 +114,4 @@ function intervalFunction() {
   setInterval(displayQuoteAndColor, 13000);
 }
 
-// Function starts the project
 intervalFunction();

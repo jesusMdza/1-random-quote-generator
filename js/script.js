@@ -107,7 +107,7 @@ function displayQuoteAndColor() {
   displayBgColor();
 }
 
-// Function will call the 'displayQuoteAndColor'  and repeat it every 20 seconds
+// Function will call the 'displayQuoteAndColor'  and repeat it every 13 seconds
 function intervalFunction() {
 
   displayQuoteAndColor();

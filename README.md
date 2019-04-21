@@ -1,5 +1,7 @@
 Project: Random Quote Generator
 
+Vanilla JS
+
 This project required me to create a list of random quotes along
 with differing properties, such as the quote's source, 
 and display them one by one in the browser by clicking a button.
